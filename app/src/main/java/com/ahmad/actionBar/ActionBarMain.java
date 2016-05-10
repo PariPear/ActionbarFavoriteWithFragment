@@ -31,6 +31,7 @@ public class ActionBarMain extends Activity implements TabListener {
 	GridViewAdapter adapter;
 	File file;
 
+
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -44,10 +45,11 @@ public class ActionBarMain extends Activity implements TabListener {
 		} else {
 			// Locate the image folder in your SD Card
 			file = new File(Environment.getExternalStorageDirectory()
-					+ File.separator + "Collections");
+					+ File.separator + "Download");
 			// Create a new folder if no folder named SDImageTutorial exist
 			file.mkdirs();
 		}
+
 		if (file.isDirectory()) {
 			listFile = file.listFiles();
 			// Create a String array for FilePathStrings
@@ -127,7 +129,7 @@ public class ActionBarMain extends Activity implements TabListener {
 			fragMentTra = getFragmentManager().beginTransaction();
 			fragMentTra.add(rl.getId(), fram1);
 			fragMentTra.commit();
-		} else if (tab.getText().equals("Image")) {
+		} else if (tab.getText().equals("All")) {
 			try {
 				rl.removeAllViews();
 			} catch (Exception e) {
@@ -137,7 +139,7 @@ public class ActionBarMain extends Activity implements TabListener {
 			fragMentTra = getFragmentManager().beginTransaction();
 			fragMentTra.add(rl.getId(), fram2);
 			fragMentTra.commit();
-		} else if (tab.getText().equals("Details")) {
+		} else if (tab.getText().equals("Favorite")) {
 			try {
 				rl.removeAllViews();
 			} catch (Exception e) {

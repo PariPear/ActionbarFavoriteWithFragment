@@ -64,8 +64,8 @@
                     "startLine": 5,
                     "startColumn": 4,
                     "startOffset": 189,
-                    "endColumn": 46,
-                    "endOffset": 231
+                    "endColumn": 51,
+                    "endOffset": 236
                 },
                 "from": {
                     "file": "E:\\Fav\\ActionBarWithFragment\\app\\src\\main\\res\\values\\strings.xml",
@@ -73,8 +73,8 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 17,
-                        "endColumn": 46,
-                        "endOffset": 59
+                        "endColumn": 51,
+                        "endOffset": 64
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 236,
+                    "startOffset": 241,
                     "endColumn": 52,
-                    "endOffset": 284
+                    "endOffset": 289
                 },
                 "from": {
                     "file": "E:\\Fav\\ActionBarWithFragment\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 64,
+                        "startOffset": 69,
                         "endColumn": 52,
-                        "endOffset": 112
+                        "endOffset": 117
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 289,
+                    "startOffset": 294,
                     "endColumn": 50,
-                    "endOffset": 335
+                    "endOffset": 340
                 },
                 "from": {
                     "file": "E:\\Fav\\ActionBarWithFragment\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 117,
+                        "startOffset": 122,
                         "endColumn": 50,
-                        "endOffset": 163
+                        "endOffset": 168
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 340,
+                    "startOffset": 345,
                     "endColumn": 72,
-                    "endOffset": 408
+                    "endOffset": 413
                 },
                 "from": {
                     "file": "E:\\Fav\\ActionBarWithFragment\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 168,
+                        "startOffset": 173,
                         "endColumn": 72,
-                        "endOffset": 236
+                        "endOffset": 241
                     }
                 }
             },
@@ -139,9 +139,9 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 413,
+                    "startOffset": 418,
                     "endColumn": 57,
-                    "endOffset": 466
+                    "endOffset": 471
                 },
                 "from": {
                     "file": "E:\\Fav\\ActionBarWithFragment\\app\\src\\main\\res\\values\\styles.xml",
