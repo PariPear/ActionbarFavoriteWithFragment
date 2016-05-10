@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6A89</color>
+    <color name="colorPrimaryDark">#FF5675</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#FFC0CB</color>
+    <color name="colorButtonMenu">#f5f5f5</color>
+    <color name="colorSplashscreen">#000000</color>
+
+    <color name="today">#4b82ff</color>
+    <color name="greyed_out">#c7c7c7</color>
+
+    <color name="summer">#FF3399</color>
+    <color name="fall">#FF3399</color>
+    <color name="winter">#FF3399</color>
+    <color name="spring">#FF3399</color>
+
+    <color name="deepPurple1">#311B92</color>
+    <color name="deepPurple2">#512DA8</color>
+    <color name="deepPurple3">#673AB7</color>
+    <color name="deepPurple4">#9575CD</color>
+    <color name="deepPurple5">#D1C4E9</color>
+
+    <color name="dark_red">#B71C1C</color>
+
+
+</resources>

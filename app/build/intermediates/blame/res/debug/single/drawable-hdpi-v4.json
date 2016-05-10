@@ -8,11 +8,11 @@
         "source": "E:\\Fav\\ActionBarWithFragment\\app\\src\\main\\res\\drawable-hdpi\\car.jpg"
     },
     {
-        "merged": "E:\\Fav\\ActionBarWithFragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.png",
-        "source": "E:\\Fav\\ActionBarWithFragment\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
-    },
-    {
         "merged": "E:\\Fav\\ActionBarWithFragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
         "source": "E:\\Fav\\ActionBarWithFragment\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Fav\\ActionBarWithFragment\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.png",
+        "source": "E:\\Fav\\ActionBarWithFragment\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
     }
 ]

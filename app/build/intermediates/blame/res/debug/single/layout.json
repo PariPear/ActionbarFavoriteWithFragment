@@ -4,7 +4,19 @@
         "source": "E:\\Fav\\ActionBarWithFragment\\app\\src\\main\\res\\layout\\gridview.xml"
     },
     {
+        "merged": "E:\\Fav\\ActionBarWithFragment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_item.xml",
+        "source": "E:\\Fav\\ActionBarWithFragment\\app\\src\\main\\res\\layout\\image_item.xml"
+    },
+    {
         "merged": "E:\\Fav\\ActionBarWithFragment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_action_bar_main.xml",
         "source": "E:\\Fav\\ActionBarWithFragment\\app\\src\\main\\res\\layout\\activity_action_bar_main.xml"
+    },
+    {
+        "merged": "E:\\Fav\\ActionBarWithFragment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collections.xml",
+        "source": "E:\\Fav\\ActionBarWithFragment\\app\\src\\main\\res\\layout\\activity_collections.xml"
+    },
+    {
+        "merged": "E:\\Fav\\ActionBarWithFragment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "E:\\Fav\\ActionBarWithFragment\\app\\src\\main\\res\\layout\\gridview_item.xml"
     }
 ]
